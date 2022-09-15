@@ -70,6 +70,7 @@ text-align: center;
 }
 .u{
     color: blue;
+    cursor: pointer;
 }
 .bs{
     width: 15px;
